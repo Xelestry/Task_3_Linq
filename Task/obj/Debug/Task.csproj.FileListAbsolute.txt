@@ -1,0 +1,10 @@
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\bin\Debug\Task.exe
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\bin\Debug\Task.pdb
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.exe
+C:\Users\Kirill_Mityushchenko\source\repos\Task_3_LINQ\Task\Task\obj\Debug\Task.pdb
